@@ -4,8 +4,6 @@
 
 - This is phpRRDBrowse, or in short: prb -
 - Author: G. Fontaine
-- Version: 0.3.0
-- Release date: 20080306
 
 ## GPL type License
 You can use it for free as long as you state the source.
@@ -49,7 +47,7 @@ See the LICENSE file
 - look and feel customisable via css stylesheet
 - simple polling performance statistics
 
-Todo: 
+## Todo: 
 - installation script
 - improve host discovery and add manual host configuration for
     none snmp enabled hosts
@@ -58,7 +56,7 @@ Todo:
     user manual
     developpers guide (module dev how-to)
 
-More stuff to add:
+## More stuff to add:
 - form validation
 - users, authentication and user management
 - database abstraction layer
