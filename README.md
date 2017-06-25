@@ -40,7 +40,7 @@ See the LICENSE file
 5. create prbdb database in mysql (use prbsql.txt)
 6. Setup crontab to poll every 5 mins with prbupdated
 
-Features:
+## Features:
 - browse by OS, vendor, location
 - host filter
 - host and module Info box with editing
